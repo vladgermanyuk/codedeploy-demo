@@ -21,8 +21,8 @@ body {
 }
 
 .logo {
-    margin: 0 auto;
-    width: 45%;
+    width: 1920;
+    height: 1080;
 }
 
 .menu {
@@ -219,4 +219,5 @@ footer
     font-weight: 600;
     color: #fff;
     font-family: "Basier circle", -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
 }
